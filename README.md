@@ -7,8 +7,6 @@ Welcome to my Power BI Portfolio! This repository showcases a collection of Powe
 - [Introduction](#introduction)
 - [Projects](#projects)
   - [Project 1: Sales Dashboard](#project-1-sales-dashboard)
-  - [Project 2: Financial Report](#project-2-financial-report)
-  - [Project 3: Customer Analysis](#project-3-customer-analysis)
 - [How to Use](#how-to-use)
 - [Contact](#contact)
 
@@ -26,21 +24,6 @@ I am a passionate data analyst with experience in creating insightful Power BI d
 - Regional sales breakdown
 - Top performing products
 
-### Project 2: Financial Report
-
-**Description**: An interactive report showcasing the financial performance of a company, including profit and loss, balance sheet, and cash flow statements.  
-**Features**:
-- Profit and loss statement analysis
-- Year-over-year comparisons
-- Key financial ratios
-
-### Project 3: Customer Analysis
-
-**Description**: A detailed analysis of customer demographics and purchasing behavior.  
-**Features**:
-- Customer segmentation
-- Purchase frequency and recency
-- Customer lifetime value
 
 ## How to Use
 
